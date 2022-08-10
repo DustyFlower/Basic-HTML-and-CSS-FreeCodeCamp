@@ -1,9 +1,0 @@
-const myDog = {
-  // Only change code below this line
-name: "Baloon",
-legs: 4,
-tails: 1,
-friends: ["Muster", "Muster's daughter", "Muster's wife"]
-
-  // Only change code above this line
-};
